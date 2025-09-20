@@ -40,25 +40,10 @@ Encrypted: Sjskose wfs uikojq
 ```
 
 ---
-## Screenshots
-
-Check the ```screenshots/``` folder for examples of:
-Script running in the terminal
-Encrypted output from sample inputs
-
----
-## Documentation
-
-Additional documentation is included in the ```PDF/``` file:
-- Step-by-step development process
-- Screenshots of execution
-
----
 ## Reflections
 - Challenges: combining Caesar shift and mirror substitution in Bash.
 - Solution: used the ```tr``` command for efficient character transformation.
 - Learning: practiced Bash scripting and classical cipher methods.
-
 
 ---
 ## I hope you find this helpful!
