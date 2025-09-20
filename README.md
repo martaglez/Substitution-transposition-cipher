@@ -61,5 +61,6 @@ Additional documentation is included in the ```PDF/``` file:
 
 
 ---
+## I hope you find this helpful!
 Marta González
 
